@@ -1,0 +1,7 @@
+{
+  "name": "Veris QA AI",
+  "description": "Plataforma de ingeniería QA autónoma, verificable y gobernada con Knowledge Engine, SQL Autopilot, Browser Runner multi-ciclo y System Doctor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
